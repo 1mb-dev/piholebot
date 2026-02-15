@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/jpillora/backoff"
-	"github.com/vnykmshr/piholebot/pihole"
+	"github.com/1mb-dev/piholebot/pihole"
 )
 
 var version string
